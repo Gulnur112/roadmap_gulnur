@@ -1,0 +1,37 @@
+.conteiner{
+    background-color: rgb(250, 243, 237);
+    
+    border-radius: 6px;
+    display: flex ;
+    flex-direction: row;
+
+    margin: 80px;
+    
+
+}
+body{
+    background: rgb(238, 174, 202);
+        background: radial-gradient(circle, rgba(238, 174, 202, 1) 0%, rgba(148, 187, 233, 1) 100%);
+    }
+.free button{
+         background-color: rgb(205, 160, 248);
+         height: 35px;
+         border-radius: 5px;
+         border: none;
+         margin: 7px;
+    }
+.Standard button{
+    background-color: rgb(113, 181, 241);
+    height: 35px;
+    border-radius: 5px ;
+    border: none;
+    margin: 7px;
+}
+.Premium button{
+    background-color: rgb(253, 201, 104);
+    height: 35px;
+    border-radius: 5px;
+    border: none;
+    margin: 7px;
+}
+
